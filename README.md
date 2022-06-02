@@ -35,3 +35,5 @@ Resume Projects:
 
 Documentation for my certifications:
 - https://github.com/eblair2/Daniel-Testout-security-pro-network-pro
+
+bGFwcmFzJA==
