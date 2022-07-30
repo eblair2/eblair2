@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on iOS exploitation
-- 🌱 I’m currently learning Rust for Linux 
+- 🌱 I’m currently learning Swift UI for app development.  
 - 📫 How to reach me: ethan.fake30@icloud.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Arch Linux is over hyped gentoos better
