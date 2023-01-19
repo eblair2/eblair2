@@ -6,7 +6,7 @@
 - I work for cellebrite doing security exploitation research. 
 
 - I rarely release or update reposotories because of NDA's, but I can help anyone with documentation for low level ios
-exploitation research  
+exploitation research. For more info reach out to my email listed.
 
 iOS Projects: 
 - https://github.com/eblair2/IOS-Hacktivation
